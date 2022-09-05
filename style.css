@@ -9,3 +9,17 @@ p {
 em strong {
     color: #FF0000;
 }
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+}
+
+#missao {
+    font-size: 20px
+}
